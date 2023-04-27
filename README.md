@@ -1,2 +1,2 @@
 # Transformative-Learning-DeepLearning-Examples
-In this repository, Verater demonstrat
+In this repository, Verater demonstrates 
