@@ -1,2 +1,2 @@
 # Transformative-Learning-DeepLearning-Examples
-In this repository, Verater demonstrates the usage of various pre-trained transfer learning models. These models can be fine-tuned to cater to specific deep learning and natural language processing use case
+In this repository, Verater demonstrates the usage of various pre-trained transfer learning models. These models can be fine-tuned to cater to specific deep learning and natural language processing use cases.
